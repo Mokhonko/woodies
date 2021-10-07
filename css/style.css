@@ -221,19 +221,19 @@ body{
   justify-content: space-between;
   row-gap: 40px;
 }
-.inner__box-1,
-.inner__box-4{
+.inner-box-1,
+.inner-box-4{
   display: block;
   background-image: url(../img/categories_fon-1.png);
   background-repeat: no-repeat;
 }
-.inner__box-2,
-.inner__box-5{
+.inner-box-2,
+.inner-box-5{
   display: block;
   background-image: url(../img/categories_fon-2.png);
   background-repeat: no-repeat;
 }
-.inner__box-3{
+.inner-box-3{
   display: block;
   background-image: url(../img/categories_fon-3.png);
   background-repeat: no-repeat;
