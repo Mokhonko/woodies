@@ -12,12 +12,12 @@ li{
   padding: 0;
 }
 h1{
-  font-size: 72px;
-  line-height: 98px;
-}
-h2{
   line-height: 49px;
   font-weight: 500;
+}
+h2{
+  font-size: 72px;
+  line-height: 98px;
 }
 body{
   font-family: 'Nunito', sans-serif;
