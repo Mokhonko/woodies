@@ -303,11 +303,11 @@
         flex-direction: column;
         align-items: center;
     }
-    .inner__box-1,
-    .inner__box-2,
-    .inner__box-3,
-    .inner__box-4,
-    .inner__box-5{
+    .inner-box-1,
+    .inner-box-2,
+    .inner-box-3,
+    .inner-box-4,
+    .inner-box-5{
         background-size: contain;
         height: 315px;
         width: 226px;
